@@ -37,3 +37,4 @@ Tu proyecto tendrá:
 - ✅ **Regex** (validación de DNI, teléfonos, fechas)
 - ✅ **Notificaciones** (mensajes de confirmación)
 - ✅ **Documentación** (manual en Word)
+=======
